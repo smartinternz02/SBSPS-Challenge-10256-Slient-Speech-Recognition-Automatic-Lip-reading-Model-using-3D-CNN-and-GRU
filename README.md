@@ -17,6 +17,8 @@ Yasaswini Bollineni
 SivaAnjali Gurram
 Thanuja Gattu
 Varsha Pogula
+![ai](https://github.com/smartinternz02/SBSPS-Challenge-10256-Slient-Speech-Recognition-Automatic-Lip-reading-Model-using-3D-CNN-and-GRU/assets/131426879/aa8756ef-ad50-4824-b7d4-ef27b8e6c192)
+
 
 
 ![Screenshot (13)](https://github.com/smartinternz02/SBSPS-Challenge-10256-Slient-Speech-Recognition-Automatic-Lip-reading-Model-using-3D-CNN-and-GRU/assets/131426879/a6536a53-58d9-451e-b620-4dca77b252e4)
