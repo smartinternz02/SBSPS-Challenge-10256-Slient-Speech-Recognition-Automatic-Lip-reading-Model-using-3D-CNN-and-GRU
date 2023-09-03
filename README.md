@@ -1,4 +1,13 @@
 # SBSPS-Challenge-10256-Slient-Speech-Recognition-Automatic-Lip-reading-Model-using-3D-CNN-and-GRU
+Team Members
+1.Yasaswini Bollineni Email:yasaswinibollineni25@gmail.com
+2.SivaAnjali Gurram   Email:gurramsivaanjali2004@gmail.com
+3.Thanuja Gattu       Email:gattuthanuja23@gmail.com
+4.Varsha Pogula       Email:varshapogula15@gmail.com
+
+#Yasaswini #Anjali #Thanuja #Varsha
+
+
 Slient Speech Recognition : Automatic Lip reading Model using 3D CNN and GRU
 Subject: Thank You for Credentials, Certificates, and Knowledge
 
