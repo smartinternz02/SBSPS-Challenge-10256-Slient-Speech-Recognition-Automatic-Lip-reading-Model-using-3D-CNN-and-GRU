@@ -19,7 +19,8 @@ Thanuja Gattu
 Varsha Pogula
 
 
-![Screenshot (11)](https://github.com/smartinternz02/SBSPS-Challenge-10256-Slient-Speech-Recognition-Automatic-Lip-reading-Model-using-3D-CNN-and-GRU/assets/131426879/606fb422-bcea-4fb0-bc8d-601d9d8b0573)
+![Screenshot (13)](https://github.com/smartinternz02/SBSPS-Challenge-10256-Slient-Speech-Recognition-Automatic-Lip-reading-Model-using-3D-CNN-and-GRU/assets/131426879/a6536a53-58d9-451e-b620-4dca77b252e4)
+
 
 ![image](https://github.com/smartinternz02/SBSPS-Challenge-10256-Slient-Speech-Recognition-Automatic-Lip-reading-Model-using-3D-CNN-and-GRU/assets/131426879/08c9b76d-e4a6-43bf-a71b-f2e0ca8a3ce9)
 
