@@ -18,7 +18,9 @@ SivaAnjali Gurram
 Thanuja Gattu
 Varsha Pogula
 ![ai](https://github.com/smartinternz02/SBSPS-Challenge-10256-Slient-Speech-Recognition-Automatic-Lip-reading-Model-using-3D-CNN-and-GRU/assets/131426879/aa8756ef-ad50-4824-b7d4-ef27b8e6c192)
+![Screenshot (5)](https://github.com/smartinternz02/SBSPS-Challenge-10256-Slient-Speech-Recognition-Automatic-Lip-reading-Model-using-3D-CNN-and-GRU/assets/131426879/48555c21-3653-4bfd-af31-22e0a6e0db67)
 
+![Screenshot (4)](https://github.com/smartinternz02/SBSPS-Challenge-10256-Slient-Speech-Recognition-Automatic-Lip-reading-Model-using-3D-CNN-and-GRU/assets/131426879/9adc6516-5e6e-4f03-8f8a-19f22b5a5e59)
 
 ![WhatsApp Image 2023-09-03 at 18 07 28](https://github.com/smartinternz02/SBSPS-Challenge-10256-Slient-Speech-Recognition-Automatic-Lip-reading-Model-using-3D-CNN-and-GRU/assets/131426879/1e0a40b5-daeb-488e-a8ec-1dc15243b9a5)
 
