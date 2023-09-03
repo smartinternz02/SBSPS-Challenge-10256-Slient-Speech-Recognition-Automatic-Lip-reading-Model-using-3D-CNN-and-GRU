@@ -25,10 +25,10 @@ Varsha Pogula
 
 
 ![image](https://github.com/smartinternz02/SBSPS-Challenge-10256-Slient-Speech-Recognition-Automatic-Lip-reading-Model-using-3D-CNN-and-GRU/assets/131426879/08c9b76d-e4a6-43bf-a71b-f2e0ca8a3ce9)
-C:\Users\91939\Pictures\Screenshots\Screenshot (4).png
-C:\Users\91939\Pictures\Screenshots\Screenshot (5).png
-![1693738576336](https://github.com/smartinternz02/SBSPS-Challenge-10256-Slient-Speech-Recognition-Automatic-Lip-reading-Model-using-3D-CNN-and-GRU/assets/131426879/7723bae3-155d-4e22-b4f6-4e7ea460bb51)
 
+
+![1693738576336](https://github.com/smartinternz02/SBSPS-Challenge-10256-Slient-Speech-Recognition-Automatic-Lip-reading-Model-using-3D-CNN-and-GRU/assets/131426879/7723bae3-155d-4e22-b4f6-4e7ea460bb51)
+C:\Users\91939\Pictures\Screenshots\Screenshot (4).png
 
 ![image](https://github.com/smartinternz02/SBSPS-Challenge-10256-Slient-Speech-Recognition-Automatic-Lip-reading-Model-using-3D-CNN-and-GRU/assets/131426879/f7ad9128-56ad-4e3b-9f00-63e32dfc5959)
 ![Screenshot (14)](https://github.com/smartinternz02/SBSPS-Challenge-10256-Slient-Speech-Recognition-Automatic-Lip-reading-Model-using-3D-CNN-and-GRU/assets/131426879/f8a6b3a6-51ac-48b1-a12d-49daf504a25c)
